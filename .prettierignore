@@ -1,0 +1,6 @@
+/.docusaurus
+/.yarn
+/build
+/.vscode
+.pnp.cjs
+.pnp.loader.mjs

@@ -6851,7 +6851,6 @@ __metadata:
     "@tsconfig/docusaurus": "npm:^1.0.7"
     "@types/node": "npm:^18.15.11"
     "@types/prettier": "npm:^2"
-    clsx: "npm:^1.2.1"
     prettier: "npm:^2.8.7"
     prism-react-renderer: "npm:^1.3.5"
     react: "npm:^17.0.2"
