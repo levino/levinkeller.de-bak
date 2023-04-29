@@ -35,6 +35,8 @@ const RAW_RUNTIME_STATE =
           ["@tsconfig/docusaurus", "npm:1.0.7"],\
           ["@types/node", "npm:18.15.11"],\
           ["@types/prettier", "npm:2.7.2"],\
+          ["clsx", "npm:1.2.1"],\
+          ["fp-ts", "npm:2.13.1"],\
           ["prettier", "npm:2.8.7"],\
           ["prism-react-renderer", "virtual:a9dba94564eac19a1ba02d8e550e83c4b274ac70ca26b1da513c68ab3d6595d7407bdc1486658999f5c1194e5e13e907c911c1c1500a2edd6adf8d580b8f3b03#npm:1.3.5"],\
           ["react", "npm:17.0.2"],\
@@ -8029,6 +8031,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["fp-ts", [\
+      ["npm:2.13.1", {\
+        "packageLocation": "../../../.yarn/berry/cache/fp-ts-npm-2.13.1-5da5e5e8c1-9.zip/node_modules/fp-ts/",\
+        "packageDependencies": [\
+          ["fp-ts", "npm:2.13.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["fraction.js", [\
       ["npm:4.2.0", {\
         "packageLocation": "../../../.yarn/berry/cache/fraction.js-npm-4.2.0-28efe4afc7-9.zip/node_modules/fraction.js/",\
@@ -9593,6 +9604,8 @@ const RAW_RUNTIME_STATE =
           ["@tsconfig/docusaurus", "npm:1.0.7"],\
           ["@types/node", "npm:18.15.11"],\
           ["@types/prettier", "npm:2.7.2"],\
+          ["clsx", "npm:1.2.1"],\
+          ["fp-ts", "npm:2.13.1"],\
           ["prettier", "npm:2.8.7"],\
           ["prism-react-renderer", "virtual:a9dba94564eac19a1ba02d8e550e83c4b274ac70ca26b1da513c68ab3d6595d7407bdc1486658999f5c1194e5e13e907c911c1c1500a2edd6adf8d580b8f3b03#npm:1.3.5"],\
           ["react", "npm:17.0.2"],\
